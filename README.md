@@ -7,6 +7,10 @@ Welcome to the Nuxt 3 AliExpress Clone project! This project is a showcase of bu
 
 - **Nuxt 3**: The framework for building modern web applications with Vue.js. Visit [Nuxt.js](https://nuxtjs.org) for documentation.
 
+## Live link
+
+https://nuxt-aliexpress-clone.netlify.app/
+
 ### Development Dependencies
 
 - **@nuxtjs/supabase**: Integration with Supabase, a powerful open-source alternative to Firebase. Learn more at [Supabase](https://supabase.io).
